@@ -1,3 +1,4 @@
 data
 submission*.csv
 .flake8
+__pycache__/
